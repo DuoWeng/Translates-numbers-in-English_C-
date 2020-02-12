@@ -1,0 +1,2 @@
+g++ second.cpp 
+./a.out
