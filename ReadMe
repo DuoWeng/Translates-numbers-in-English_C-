@@ -1,2 +1,7 @@
 g++ second.cpp 
 ./a.out
+
+Number: 1000
+is one thousand
+Number:1103
+is one thousand one hundred three
